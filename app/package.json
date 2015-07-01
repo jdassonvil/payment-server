@@ -1,0 +1,22 @@
+{
+  "name": "payment-server",
+  "version": "1.0.0",
+  "description": "A simple fake payment server",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jdassonvil/payment-server.git"
+  },
+  "author": "jdassonvil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdassonvil/payment-server/issues"
+  },
+  "homepage": "https://github.com/jdassonvil/payment-server",
+  "dependencies": {
+    "express": "^4.13.0"
+  }
+}
