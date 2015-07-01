@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jdassonvil/payment-server",
   "dependencies": {
+    "body-parser": "^1.13.1",
     "express": "^4.13.0"
   }
 }
