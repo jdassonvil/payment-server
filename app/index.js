@@ -4,7 +4,7 @@ var express     =   require('express');
 var bodyParser  =   require('body-parser');
 
 var app = express();
-var port = 8000;
+var port = 80;
 
 app.use(bodyParser.json());
 
